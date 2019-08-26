@@ -1,5 +1,5 @@
 # Java Anfänger-Challenge #2
-Die erste Challenge meiner Anfänger-Aufgaben.
+Die zweite Challenge meiner Anfänger-Aufgaben.
 
 # Aufgabe:
 Erstelle eine Methode checkEven(), die prüft, ob eine Zahl gerade ist oder nicht.

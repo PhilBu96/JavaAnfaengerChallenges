@@ -1,5 +1,5 @@
 # Java Anfänger-Challenge #1
-Die zweite Challenge meiner Anfänger-Aufgaben.
+Die erste Challenge meiner Anfänger-Aufgaben.
 
 # Aufgabe:
 Ermittle mithilfe simpler Mathematik folgende Ergebnisse und geben Sie auf der Konsole aus:  
