@@ -1,4 +1,4 @@
-public class Aufgabe2 {
+public class AnfaengerAufgabe2 {
 
     /*
     Erstelle eine Methode checkEven(), die prüft, ob eine Zahl gerade ist oder nicht.
