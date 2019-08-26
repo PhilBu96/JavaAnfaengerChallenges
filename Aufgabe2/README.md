@@ -1,4 +1,4 @@
-# Java Anfänger-Challenge #1
+# Java Anfänger-Challenge #2
 Die erste Challenge meiner Anfänger-Aufgaben.
 
 # Aufgabe:
