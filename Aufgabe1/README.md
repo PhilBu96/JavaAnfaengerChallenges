@@ -8,8 +8,8 @@ Ermittle mithilfe simpler Mathematik folgende Ergebnisse und geben Sie auf der K
 Das Quadrat von 40  
 Die 3er-Potenz von 95  
 Das Quadrat der Kreiszahl Pi  
-Die Quadratwurzel von der Eulerschen Zahl hoch Pi  
-Den Sinus von 132°  
+Die Quadratwurzel von (der Eulerschen Zahl hoch Pi)  
+Den Sinus von 42°  
 Konvertierung von 1.337 radiant in Grad  
 
 **Tipp:**  
