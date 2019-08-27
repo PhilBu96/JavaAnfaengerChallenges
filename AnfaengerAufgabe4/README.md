@@ -8,6 +8,6 @@ Google ist dein Freund ;) Für dieses Beispiel kannst du jede Art von Schleife b
 For-Schleife am besten an.
 
 # Lösung
-Die "beste" Lösung ist nicht auskommentiert, die optionalen aber schon.  
+Die "beste" Lösung steht ganz oben, die anderen darunter.  
 Es sind also viele Möglichkeiten zu sehen.  
 Die Lösung befindet sich hier im Ordner "src".
